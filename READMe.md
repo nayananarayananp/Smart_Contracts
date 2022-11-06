@@ -11,7 +11,7 @@ The following package from Python 3.7 is used in this project:
 
 ## Results Screenshot
 ### Setting setAccounts function for 2 addresses:
-![jointsaving.png](Images/jointsaving.png)
+![joint saving.png](Images/joint saving.png)
 ### Send 1 ETH as Wei to joint savings smart contract:
 ![deposit1ether.png](Images/deposit1ether.png)
 ### Send 10 ETH as wei to joint savings smart contract:
